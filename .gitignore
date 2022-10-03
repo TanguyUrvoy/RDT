@@ -110,3 +110,7 @@ ENV/
 
 # Vim
 .*.swp
+
+# vcode stuff
+
+.vcode
